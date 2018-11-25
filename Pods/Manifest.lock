@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.6.0)
+  - CryptoSwift (0.8.1)
+  - SQLite.swift (0.11.4):
+    - SQLite.swift/standard (= 0.11.4)
+  - SQLite.swift/standard (0.11.4)
+  - SVProgressHUD (2.2.2)
+  - SwiftRangeSlider (2.0.0)
+  - SwiftyJSON (4.0.0)
+  - SwiftyXMLParser (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - CryptoSwift
+  - SQLite.swift (~> 0.11.4)
+  - SVProgressHUD
+  - SwiftRangeSlider (~> 2.0.0)
+  - SwiftyJSON
+  - SwiftyXMLParser
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  CryptoSwift: 4b07d5b508c1eb67bfa314a727b705f8048a85de
+  SQLite.swift: 3e3bee21da701b5b9f87c4a672cb54f233505692
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+  SwiftRangeSlider: f86e3b637c961120158fa1a89277c8343845cbe4
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  SwiftyXMLParser: 8065da2e715e86aeba677a34fad8c252db5128bb
+
+PODFILE CHECKSUM: e4e32a11946b982c97e0227c582aa31cf306eebe
+
+COCOAPODS: 1.3.1
